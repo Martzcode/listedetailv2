@@ -32,8 +32,6 @@ local.properties
 Thumbs.db
 
 # ---
-# Documentation du TP et diapositives de cours d'origine.
-# Ces fichiers .pdf/.docx de référence ne sont pas suivis par git,
-# uniquement les conversions .md (identiques, en texte).
-/docs/*.pdf
-/docs/*.docx
+# Dossier docs/ complet : documents du TP et conversions .md
+# (supports de cours, énoncés) - non suivis par git.
+/docs/
