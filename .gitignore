@@ -1,0 +1,39 @@
+# Android / Kotlin / Gradle
+*.iml
+*.apk
+*.aab
+*.keystore
+*.jks
+*.hprof
+*.kotlin_module
+
+# Gradle
+.gradle/
+build/
+!gradle/wrapper/gradle-wrapper.jar
+
+# Local configuration
+local.properties
+
+# IDE — IntelliJ / Android Studio
+.idea/
+!.idea/.gitignore
+
+# Kotlin
+.kotlin/
+
+# Captures, native build, CMake
+/captures
+.externalNativeBuild
+.cxx
+
+# Système
+.DS_Store
+Thumbs.db
+
+# ---
+# Documentation du TP et diapositives de cours d'origine.
+# Ces fichiers .pdf/.docx de référence ne sont pas suivis par git,
+# uniquement les conversions .md (identiques, en texte).
+/docs/*.pdf
+/docs/*.docx
