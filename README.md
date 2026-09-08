@@ -42,12 +42,6 @@ app/src/main/java/mg/itu/listedetail/
 2. Laisser Gradle synchroniser.
 3. Lancer `app` sur un émulateur ou un appareil (dans les options développeur : « Installer via USB » activé).
 
-> Java 25 n'est pas supporté par ce build : utilisez un JDK 21 (ex. le JBR d'Android Studio/IntelliJ).
-
-### Documentation
-
-Les supports de cours convertis en Markdown sont dans [`docs/`](docs/) : séances 3, 4 et 6, plus l'énoncé du TP.
-
 ---
 
 ## 🇬🇧 English
@@ -85,12 +79,6 @@ app/src/main/java/mg/itu/listedetail/
 1. Open the project in Android Studio (File → Open).
 2. Let Gradle sync.
 3. Run `app` on an emulator or device (Developer options: "Install via USB" enabled).
-
-> Java 25 is not supported by this build: use a JDK 21 (e.g. the Android Studio/IntelliJ JBR).
-
-### Documentation
-
-Course materials converted to Markdown live in [`docs/`](docs/): sessions 3, 4 and 6, plus the exercise statement.
 
 ---
 
